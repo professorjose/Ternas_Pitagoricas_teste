@@ -1,0 +1,1 @@
+# Ternas_Pitagoricas_teste
